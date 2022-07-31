@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proyecto-final/static/css/main.639dc171.css",
+    "main.js": "/proyecto-final/static/js/main.fe524897.js",
+    "static/media/BBtrailer.mp4": "/proyecto-final/static/media/BBtrailer.65bc7029ddd9d83a5bf2.mp4",
+    "static/media/spinner.gif": "/proyecto-final/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/logo.png": "/proyecto-final/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/proyecto-final/index.html",
+    "main.639dc171.css.map": "/proyecto-final/static/css/main.639dc171.css.map",
+    "main.fe524897.js.map": "/proyecto-final/static/js/main.fe524897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639dc171.css",
+    "static/js/main.fe524897.js"
+  ]
+}
